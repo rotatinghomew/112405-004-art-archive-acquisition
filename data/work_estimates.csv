@@ -1,0 +1,4 @@
+collection_id,catalog_hours,scan_hours,preservation_hours,equipment,staff_group
+CL-1,16,28,4,flatbed,G-1
+CL-2,10,12,24,overhead,G-2
+CL-3,20,10,2,flatbed,G-1

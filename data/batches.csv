@@ -1,0 +1,4 @@
+batch_id,collection_id,state,approved_budget,planned_hours,open_access_scope
+B-1,CL-2,proposed,0,0,none
+B-2,CL-1,proposed,0,0,restricted
+B-3,CL-3,draft,0,0,none

@@ -1,0 +1,4 @@
+need_id,project,question,collection_id,priority_source,required_by
+N-1,modern-painting,作品交往线索,CL-1,seminar,2027-03-01
+N-2,exhibition-history,展览范围核对,CL-2,citation,2027-04-15
+N-3,media-study,版面用语,CL-3,search,2027-05-01

@@ -1,0 +1,4 @@
+collection_id,holding_unit,material_type,box_count,condition,rights_state
+CL-1,甲馆,往来书信,12,stable,review
+CL-2,乙馆,展览目录,8,fragile,clear
+CL-3,甲馆,剪报,5,stable,unknown
